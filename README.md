@@ -30,6 +30,8 @@ Instead of just following a tutorial, I focused on building a scalable architect
 * **UI:** Jetpack Compose
 * **Architecture:** MVVM / Clean Architecture Principles
 
+<img width="1080" height="2400" alt="algopath" src="https://github.com/user-attachments/assets/c91fe8d0-cebc-477e-a4a8-b106ca206dc9" />
+
 ---
 Currently maintained by [Tayfur Durlanık]
 Open to feedback and contributions!
